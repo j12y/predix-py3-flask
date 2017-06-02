@@ -1,0 +1,4 @@
+---
+applications:
+- name: py3-cf-demo
+  buildpack: https://github.com/cloudfoundry/buildpack-python.git
